@@ -1,0 +1,29 @@
+.header__conatiner{
+    width:100%;
+}
+.header__toolbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+}
+.header__search{
+    position: relative;
+    border-radius: 1px;
+    display: flex;
+    margin-right: 2px;
+    margin-left: 0px;
+    align-items:center;
+    margin-left: 10px;
+    background-color: transparent;
+}
+.header__searchIcon{
+    margin-top: 4px;
+}
+.header__input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    outline-width:none ;
+}

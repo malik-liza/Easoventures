@@ -1,0 +1,19 @@
+.list__places{
+    height:75vh;
+    overflow: auto;
+}
+
+.list__container h4{
+    margin-left:10px;
+
+}
+
+.list__formControl{
+    margin-bottom: 20px !important;
+
+}
+
+.list__container{
+    border-right: 2px gray !important;
+    padding:25px;
+}
